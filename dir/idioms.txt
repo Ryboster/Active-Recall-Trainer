@@ -1,0 +1,4 @@
+{'Blessing in disguise': 'something that appears as a detriment at first but eventually benefits you more than it detrimented you'}
+{'Hold Your Horses': "'wait a moment.', 'wait a moment.', 'wait a moment.'"}
+{'Good things come to those who wait': "'Be patient', 'Be patient', 'Be patient', 'Be patient'"}
+{'He has bigger fish to fry': "'He has bigger things to take care of than what we are talking about now', 'He has bigger things to take care of than what we are talking about now', 'He has bigger things to take care of than what we are talking about now'"}
